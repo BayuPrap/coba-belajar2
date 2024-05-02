@@ -1,0 +1,56 @@
+.kotak {
+   height: 300px;
+   width: 300px;
+   border: 10px solid gray; 
+}
+
+
+
+.merah {
+   background-color: red;
+}
+
+.hijau {
+   background-color: green;
+}
+.biru{
+   background-color: blue;
+}
+.ungu{
+   background-color: purple;
+}
+.jingga{
+   background-color: orange;
+}
+
+.border-red{
+   width: 100%;
+}
+
+.border-green-25{
+   width: 25%;
+}
+
+.border-green-75{
+   width: 75%;
+}
+
+.satu{
+   height: 300px;
+   background-color: blue;
+}
+
+.dua{
+   height: 200px;
+   background-color: red;
+}
+
+.tiga{
+   height: 400px;
+   background-color: blue;
+}
+
+.empat{
+   height: 100px;
+   background-color: yellow;
+}
